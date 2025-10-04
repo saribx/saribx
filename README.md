@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saribx
-- 👀 I’m interested in Computer Science and Business; Sports; Trips; technology 
-- 🌱 I’m currently learning Computer Science and Business
-- 📫 How to reach me insta: sarib.s
+- 🌱 I’m currently studying Computer Science and Business @ Technical University Berlin
+- 📫 How to reach me insta: sarib.x
 
 <!---
 saribx/saribx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
